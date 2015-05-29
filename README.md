@@ -9,9 +9,6 @@ Many tools do not exist and many features are not implemented.
 
 **WARNING:** Keep the programs in a directory **OUTSIDE** of your $PATH or they may end up being run *instead* of your system's commands.
 
-# Dependencies
-* pflag, https://github.com/ogier/pflag
-
 # License
 I am releasing this under the terms of the GNU GPLv3 license with **ABSOLUTELY NO WARRANTY OR LIABILITY**.
 I have included the license in the file LICENSE.md
